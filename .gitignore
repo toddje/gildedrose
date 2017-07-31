@@ -1,0 +1,8 @@
+# ignore the virtualenv directory
+env
+
+db.sqlite3
+*.pyc
+
+\#*
+.#*

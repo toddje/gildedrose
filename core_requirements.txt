@@ -1,0 +1,7 @@
+Django==1.11.3
+djangorestframework==3.6.3
+simplejson==3.11.1
+coreapi==2.3.1
+
+# For docs
+django-rest-swagger==2.1.2
