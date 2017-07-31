@@ -123,10 +123,10 @@ Failure:
 
 ## Authentication
 
-I chose a user-based authentication because in this situation the
-store can only sell to users who have set up accounts, and have a
-known delivery address, and a way of paying.  All of this would be
-associated with their account in a full implementation.
+I chose a Basic Auth user-based authentication because in this
+situation the store can only sell to users who have set up accounts,
+and have a known delivery address, and a way of paying.  All of this
+would be associated with their account in a full implementation.
 
 This must be run over https when deployed to protect this information
 in the requests.
